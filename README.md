@@ -37,7 +37,8 @@
 
 <!-- Profile View Count and GitStats -->
 
-
+![](https://komarev.com/ghpvc/?username=belikeamitesh&style=flat)
+[![Github](https://img.shields.io/badge/-belikeamitesh-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/belikeamitesh)
 
 
 <div align="center">
@@ -45,8 +46,62 @@
     <h4 align="center">Some of my Projects - <a href="https://belikeamitesh.github.io/Code-Zone/">Click Here!</a></h4>
 </div>
 <code>
-  
-    
+  <h2>Position Of Responsibilities</h2>
+  <ul>
+     <li>Web Dev Lead- Google DSC</li>
+  <li>Former Technical Secretary IIIT Guwahati</li>
+    <li>Former IIITG Programming Club Coordinator</li>
+    <li>E-Cell Technical Member</li>
+  </ul>
+  <h2>Miscellaneous</h2>
+  <h3>Fun Fact - I am the admin of Web For You</h3>
+  <ul>
+    <li>Instagram - <a href="https://www.instagram.com/web.for.u/">Click Here!</a></li>
+    <li>Facebook -  <a href="https://www.facebook.com/web.4.uu/">Click Here!</a></li>
+    <li>Medium - <a href="https://www.medium.com/web-for-you/">Click Here!</a></li>
+    <li>Website - <a href="https://github.com/Web-4-You">Under Progress!</a></li>
+  </ul>
+  <br /><br/>
+  <h2 align="center"><strong><u>My Articles And Blogs</u></strong></h2>
+  <ul>
+    <li><a style="text-decoration:none;" href="https://iiitg-blogs.com/2020/07/13/the-curriculum-vitae-the-cv/7/" target="_blank">The Curriculum Vitae - IIITG's Newsletter</a></li>
+    <li>
+      <h3><strong>Web For You</strong></h3>
+      <ul>
+        <li><a style="text-decoration:none;" href="https://medium.com/web-for-you/get-started-with-node-js-405a3605d1de" target="_blank">Getting Started with Node.js - Day 1</a></li>
+        <li><a style="text-decoration:none;" href="https://medium.com/web-for-you/getting-started-with-node-js-day-2-ac0c661902ea" target="_blank">Getting Started with Node.js - Day 2</a></li>
+        <li><a style="text-decoration:none;" href="https://medium.com/@belikeamitesh/getting-started-with-node-js-day-3-4062c7693db5" target="_blank">Getting Started with Node.js - Day 3</a></li>
+        <li><a style="text-decoration:none;" href="https://medium.com/web-for-you/how-to-make-typing-effect-c72d9d6b9772" target="_blank">How To Make: Typing Effect</a></li>
+      </ul>
+    </li>
+  </ul>
+</code>
+
+<code>
+  <div align="center">
+    <h2>Statistics</h2>
+    <a href="https://github.com/belikeamitesh">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=belikeamitesh&show_icons=true&theme=dark&line_height=27" alt="Amitesh's Github Stats"/>
+    </a>
+    <a href="https://github.com/belikeamitesh">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belikeamitesh&theme=dark&hide_langs_below=1" />
+     </a>
+</code>
+
+  <div align="center">
+    <h2 align="center">Extra Curriculars</h2> 
+  </div>
+  <p align="center">
+    <a href="https://medium.com/@belikeamitesh" target="_blank" style="text-decoration: none;">
+      <img align="center" alt="Amitesh's Blogs" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
+    </a> 
+    <a href="https://www.youtube.com/channel/UClMN3cSV7FsXINuk_eK2Utw" target="_blank" style="text-decoration: none;">
+      <img align="center" alt="Amitesh's Youtube" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /> &nbsp; &nbsp;
+     </a>
+    <a href="https://devpost.com/amitesh-kumar" target="_blank" style="text-decoration: none;">
+      <img align="center" alt="Devpost" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" /> &nbsp; &nbsp;
+   </a> 
+  </p>
 <code>
    
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
