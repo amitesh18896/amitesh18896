@@ -46,35 +46,7 @@
     <h4 align="center">Some of my Projects - <a href="https://belikeamitesh.github.io/Code-Zone/">Click Here!</a></h4>
 </div>
 <code>
-  <h2>Position Of Responsibilities</h2>
-  <ul>
-     <li>Web Dev Lead- Google DSC</li>
-  <li>Former Technical Secretary IIIT Guwahati</li>
-    <li>Former IIITG Programming Club Coordinator</li>
-    <li>E-Cell Technical Member</li>
-  </ul>
-  <h2>Miscellaneous</h2>
-  <h3>Fun Fact - I am the admin of Web For You</h3>
-  <ul>
-    <li>Instagram - <a href="https://www.instagram.com/web.for.u/">Click Here!</a></li>
-    <li>Facebook -  <a href="https://www.facebook.com/web.4.uu/">Click Here!</a></li>
-    <li>Medium - <a href="https://www.medium.com/web-for-you/">Click Here!</a></li>
-    <li>Website - <a href="https://github.com/Web-4-You">Under Progress!</a></li>
-  </ul>
-  <br /><br/>
-  <h2 align="center"><strong><u>My Articles And Blogs</u></strong></h2>
-  <ul>
-    <li><a style="text-decoration:none;" href="https://iiitg-blogs.com/2020/07/13/the-curriculum-vitae-the-cv/7/" target="_blank">The Curriculum Vitae - IIITG's Newsletter</a></li>
-    <li>
-      <h3><strong>Web For You</strong></h3>
-      <ul>
-        <li><a style="text-decoration:none;" href="https://medium.com/web-for-you/get-started-with-node-js-405a3605d1de" target="_blank">Getting Started with Node.js - Day 1</a></li>
-        <li><a style="text-decoration:none;" href="https://medium.com/web-for-you/getting-started-with-node-js-day-2-ac0c661902ea" target="_blank">Getting Started with Node.js - Day 2</a></li>
-        <li><a style="text-decoration:none;" href="https://medium.com/@belikeamitesh/getting-started-with-node-js-day-3-4062c7693db5" target="_blank">Getting Started with Node.js - Day 3</a></li>
-        <li><a style="text-decoration:none;" href="https://medium.com/web-for-you/how-to-make-typing-effect-c72d9d6b9772" target="_blank">How To Make: Typing Effect</a></li>
-      </ul>
-    </li>
-  </ul>
+  
 </code>
 
 <code>
