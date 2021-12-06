@@ -42,7 +42,7 @@
 
 
 <div align="center">
-    <h4 align="center">My Portfolio - <a href="https://amitesh-kumar.netlify.app/">Click Here!</a></h4> 
+    <h4 align="center">My Portfolio - <a href="https://amiteshportfolio.000webhostapp.com/">Click Here!</a></h4> 
     <h4 align="center">Some of my Projects - <a href="https://belikeamitesh.github.io/Code-Zone/">Click Here!</a></h4>
 </div>
 <code>
