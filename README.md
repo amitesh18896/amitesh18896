@@ -60,20 +60,7 @@
      </a>
 </code>
 
-  <div align="center">
-    <h2 align="center">Extra Curriculars</h2> 
-  </div>
-  <p align="center">
-    <a href="https://medium.com/@belikeamitesh" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Amitesh's Blogs" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
-    </a> 
-    <a href="https://www.youtube.com/channel/UClMN3cSV7FsXINuk_eK2Utw" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Amitesh's Youtube" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /> &nbsp; &nbsp;
-     </a>
-    <a href="https://devpost.com/amitesh-kumar" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Devpost" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" /> &nbsp; &nbsp;
-   </a> 
-  </p>
+  
 <code>
    
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
