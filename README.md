@@ -43,7 +43,7 @@
 
 <div align="center">
     <h4 align="center">My Portfolio - <a href="https://amiteshportfolio.000webhostapp.com/">Click Here!</a></h4> 
-    <h4 align="center">Some of my Projects - <a href="https://amitesh18896.github.io/-DefHack-2021/">Click Here!</a></h4>
+    <h4 align="center">Some of my Projects - <a href="https://amitesh18896.github.io/Live-Covid-Updates/">Click Here!</a></h4>
 </div>
 <code>
   
