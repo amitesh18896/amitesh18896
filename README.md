@@ -51,29 +51,9 @@
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=belikeamitesh&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
 
-<code>
-  <h2>Position Of Responsibilities</h2>
-  <ul>
-     <li>Web Dev Lead- Google DSC</li>
-  <li>Former Technical Secretary IIIT Guwahati</li>
-    <li>Former IIITG Programming Club Coordinator</li>
-    <li>E-Cell Technical Member</li>
-  </ul>
-  <br /><br/>
-  <h2 align="center"><strong><u>My Articles And Blogs</u></strong></h2>
-  <ul>
-    <li><a style="text-decoration:none;" href="https://iiitg-blogs.com/2020/07/13/the-curriculum-vitae-the-cv/7/" target="_blank">The Curriculum Vitae - IIITG's Newsletter</a></li>
-    <li>
-      <h3><strong>Web For You</strong></h3>
-      <ul>
-        <li><a style="text-decoration:none;" href="https://medium.com/web-for-you/get-started-with-node-js-405a3605d1de" target="_blank">Getting Started with Node.js - Day 1</a></li>
-        <li><a style="text-decoration:none;" href="https://medium.com/web-for-you/getting-started-with-node-js-day-2-ac0c661902ea" target="_blank">Getting Started with Node.js - Day 2</a></li>
-        <li><a style="text-decoration:none;" href="https://medium.com/@belikeamitesh/getting-started-with-node-js-day-3-4062c7693db5" target="_blank">Getting Started with Node.js - Day 3</a></li>
-        <li><a style="text-decoration:none;" href="https://medium.com/web-for-you/how-to-make-typing-effect-c72d9d6b9772" target="_blank">How To Make: Typing Effect</a></li>
-      </ul>
-    </li>
-  </ul>
-</code>
+
+      
+
 
 <code>
   <div align="center">
@@ -88,20 +68,7 @@
 </code>
    
 
-  <div align="center">
-    <h2 align="center">Extra Curriculars</h2> 
-  </div>
-  <p align="center">
-    <a href="https://medium.com/@belikeamitesh" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Amitesh's Blogs" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" /> &nbsp; &nbsp;
-    </a> 
-    <a href="https://www.youtube.com/channel/UClMN3cSV7FsXINuk_eK2Utw" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Amitesh's Youtube" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" /> &nbsp; &nbsp;
-     </a>
-    <a href="https://devpost.com/amitesh-kumar" target="_blank" style="text-decoration: none;">
-      <img align="center" alt="Devpost" height="50px" width="50px" src="https://www.vectorlogo.zone/logos/devpost/devpost-ar21.svg" /> &nbsp; &nbsp;
-   </a> 
-  </p>
+  
 <code>
    
    ![snake gif](https://github.com/belikeamitesh/belikeamitesh/blob/output/github-contribution-grid-snake.gif)
